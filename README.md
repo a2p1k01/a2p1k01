@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/a2p1k02#2340" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="a2p1k02#2340" height="30" width="40" /></a>
-<a href="t.me/a2p1k02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="@a2p1k02" height="30" width="40" /></a>
+<a href="https://t.me/a2p1k02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="@a2p1k02" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Other tools:</h3>
