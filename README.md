@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a2p1k01&layout=compact&show_icons=true&theme=dark)](https://github.com/a2p1k01?tab=repositories)
 
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, JS**
 
 - 📫 How to contact me **petrovbick@gmail.com**
 
