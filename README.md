@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
-<h3 align="center">Fullstack Developer</h3>
+<h3 align="center">Python Backend Developer</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a2p1k01&layout=compact&show_icons=true&theme=dark)](https://github.com/a2p1k01?tab=repositories)
 
 
-- 💬 Ask me about **Python, JS**
+- 💬 Ask me about **Python, Django, FastAPI**
 
 - 📫 How to contact me **petrovbick@gmail.com**
 
