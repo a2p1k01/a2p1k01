@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <p align="center">
-  <img height=100 src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=QA+Engineer" />
+  <img height=100 src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=277FF7&center=true&vCenter=true&random=true&width=435&lines=DevOps+Engineer" />
 </p>
 
 ```asm
 ; ===============[ SKILL METRICS ]===============
 ; Address   Hex Data                     ASCII          
 00000000   43 2B 2B 20 20 20 20 20   | Python   | 85% (0x55) 
-00000000   43 2B 2B 20 20 20 20 20   | Github   | 80% (0x50) 
-00000010   52 75 73 74 20 20 20 20   | Pytest   | 80% (0x50)   
+00000000   43 2B 2B 20 20 20 20 20   | Gitlab   | 80% (0x50) 
+00000010   52 75 73 74 20 20 20 20   | Docker   | 80% (0x50)   
 00000020   5A 69 67 20 20 20 20 20   | Go       | 60% (0x28)  
-00000030   4C 69 6E 75 78 20 25 20   | Linux    | 90% (0x5A)
-00000030   4E 44 65 75 09 15 20 20   | Selenium | 90% (0x5A)
-00000030   5D 4A 87 E2 98 00 20 66   | Postman  | 90% (0x5A)   
+00000030   4C 69 6E 75 78 20 20 20   | Linux    | 90% (0x5A)   
 ;
 ; LEGEND:
 ; 0x55 = 85% | 0x5A = 90% | 0x3C = 60%
